@@ -1,0 +1,11 @@
+TAX INVOICE
+Invoice No: INV-2026-0142
+Date: 12 September 2026
+Vendor: Sharma Electronics, Jaipur
+Bill To: Aman Traders
+Item            Qty   Rate    Amount
+LED Monitor 24in  2   8500    17000
+HDMI Cable        4    250     1000
+Subtotal: 18000
+GST (18%): 3240
+Total: 21240 INR

@@ -1,0 +1,6 @@
+groq
+pydantic
+pdfplumber
+openpyxl
+python-dotenv
+mcp[cli]<2

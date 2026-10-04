@@ -1,0 +1,10 @@
+Invoice No,INV-2026-0311
+Date,20 September 2026
+Vendor,Jain Sweets Jaipur
+Customer,Aman Jain
+Item,Qty,Rate,Amount
+Kaju Katli 1kg,2,900,1800
+Samosa (dozen),3,120,360
+Subtotal,,,2160
+GST 5%,,,108
+Total,,,2268
