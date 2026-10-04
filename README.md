@@ -408,6 +408,6 @@ MCP is therefore an integration layer rather than the component responsible for 
 
 **Aman Jain**
 
-MCA (AI & ML) Graduate
+MCA (AI & ML)
 
 GitHub: [AmanJain1011](https://github.com/AmanJain1011)
